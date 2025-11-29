@@ -9,6 +9,8 @@ The project uses cleaned healthcare data to uncover patterns in long-stay patien
 
 ---
 
+![image alt](https://github.com/pallibhavaniprasad04-ai/HealthCare-Analysis/blob/a768f55e79b2d7b2983662ba6b9288785e3f0b18/360_F_1165392043_1T84XUENaivaKIvdanShdA0jFJRWSv8h.jpg)
+
 ## 🚨 Problem Statement
 Hospitals handle large volumes of patient and operational data but often lack the ability to analyze it effectively. Critical information—such as admission types, medical conditions, doctor workload, and patient stay duration—is scattered and underutilized. This leads to inefficient resource allocation, increased patient wait times, poor visibility into risk groups, and difficulty improving patient outcomes.
 
