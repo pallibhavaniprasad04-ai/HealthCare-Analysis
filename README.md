@@ -69,11 +69,6 @@ This project solves the problem by:
 
 ---
 
-## 📌 Resume Summary (2–3 lines)
-Built an interactive Healthcare Analytics Dashboard using Tableau to analyze patient demographics, medical conditions, admission patterns, and doctor performance. Performed SQL-driven insights on billing, long-stay patients, and hospital efficiency to support data-driven healthcare decision-making.
-
----
-
 ## 👤 Author
 **Palli Bhavaniprasad**  
 Aspiring Data Analyst | Python • SQL • Power BI • Tableau  
